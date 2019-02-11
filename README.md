@@ -1,6 +1,28 @@
 # 2do
 
-> A simple to-do list PWA made with Vue as an example
+A simple to-do list PWA made with Vue JS as an example
+
+Using:
+
+* Vue PWA template
+
+* Vuex
+
+* Vue loader
+
+* Vue routing
+
+* localStorage
+
+Next 2 do:
+
+* Animations
+
+* Font Awesome
+
+* Settings page
+
+* Better layout
 
 ## Build Setup
 
